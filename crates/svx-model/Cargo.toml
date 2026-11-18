@@ -1,0 +1,9 @@
+[package]
+name = "svx-model"
+description = "Neutral model of the Voyager scene reader: placed glTF models and annotations, in metres, Z up"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+repository.workspace = true
+publish.workspace = true
